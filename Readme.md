@@ -2,6 +2,7 @@
 
 # link 1
 - https://www.youtube.com/watch?v=3Kq1MIfTWCE
+- https://www.youtube.com/watch?v=fNzpcB7ODxQ
 
 # link 2
 - https://openclassrooms.com/fr/courses/2340511-maitrisez-vos-applications-et-reseaux-tcp-ip
