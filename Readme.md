@@ -1,8 +1,10 @@
 # Learn Cybersecurity
 
+# required
+- https://www.udemy.com/course/ethical-hacking-basics-kali-20211/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-kt9GzvystaRy2M4tmgmzbw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
+- 
+
 # link 1
-- https://www.youtube.com/watch?v=qwA6MmbeGNo
-- https://www.youtube.com/watch?v=fNzpcB7ODxQ
 - https://www.youtube.com/watch?v=3Kq1MIfTWCE
 
 # link 2
