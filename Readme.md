@@ -5,6 +5,7 @@
 - https://openclassrooms.com/fr/courses/1761876-securisez-vos-infrastructures
 - https://openclassrooms.com/fr/courses/1734211-analysez-et-gerez-des-risques-si
 - https://openclassrooms.com/fr/courses/6179306-securisez-vos-applications-web-avec-lowasp
+- https://openclassrooms.com/fr/courses/1750566-optimisez-la-securite-informatique-grace-au-monitoring
 
 # developer
 - nom prénom: Diouf Mouhamed
