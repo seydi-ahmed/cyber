@@ -1,6 +1,6 @@
 # Learn Cybersecurity
 
-# link 1
+# link 2
 - https://www.udemy.com/course/ethical-hacking-basics-kali-20211/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-kt9GzvystaRy2M4tmgmzbw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
 - https://www.udemy.com/course/ethical-hacker/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-HbtjpaijQX08TZTSG0b9.A&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=JVFxdTr9V80
 - https://www.udemy.com/course/nmap-crash-course-for-ethical-hackers/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-E4hUzF3ueGnA2nfWugvaIA&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads
