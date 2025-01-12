@@ -1,6 +1,6 @@
 # Learn Cybersecurity
 
-# link 1
+# link 1 (one month)
 - https://www.youtube.com/watch?v=3Kq1MIfTWCE
 
 # link 2
