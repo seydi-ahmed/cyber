@@ -8,7 +8,7 @@
 - https://www.udemy.com/course/ethical-hacking-for-beginners-beginner-to-advance/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-7fLHXZb0sBSP8zh310VNkQ&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads
 - https://www.udemy.com/course/wifi-hacking-for-beginners/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-VZCD1UrvrvCBsqmmzBlj.g&utm_source=aff-campaign&utm_medium=udemyads&LSNPUBID=JVFxdTr9V80
 
-# link 2
+# link 1
 - https://www.youtube.com/watch?v=3Kq1MIfTWCE
 
 # developer
